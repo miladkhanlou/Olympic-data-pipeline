@@ -1,4 +1,4 @@
-#### Step 1: Project Initiation
+## Step 1: Project Initiation
 
 **Project Description:** In this project, I will create an end-to-end data engineering pipeline using Azure services to process Olympic data from a source, perform data transformations using Apache Spark, store both raw and transformed data in Azure Data Lake Storage, and finally, analyze the data using Azure Synapse Analytics to build a dashboard.
 
@@ -13,7 +13,7 @@
 
 **Set Project Timeline:** Define project milestones and deadlines.
 
-### Step 2: Data Source Understanding
+## Step 2: Data Source Understanding
 
 1. **Gather Information about the Olympic Data:**
    - Access the public GitHub repository containing the raw Olympic data.
@@ -23,7 +23,7 @@
    - Explore the data structure, columns, and format.
    - Document data source details for reference during the project.
 
-### Step 3: Azure Service Selection
+## Step 3: Azure Service Selection
 
 - Identify and choose the Azure services required for each stage of the pipeline:
   - Data Factory for data extraction.
@@ -32,11 +32,11 @@
   - Azure Synapse Analytics for data analytics.
   - Power BI or Tableau for dashboard creation.
 
-### Step 4: Set Up Azure Resources
+## Step 4: Set Up Azure Resources
 
 - Create Azure accounts and necessary resources (Data Factory, Data Lake Storage, Azure Databricks, Synapse Analytics, and Power BI/Tableau).
 
-### Step 5: Data Extraction with Azure Data Factory
+## Step 5: Data Extraction with Azure Data Factory
 
 1. **Configure Azure Data Factory:**
    - Set up Azure Data Factory to extract data from the Kaggle source.
@@ -47,7 +47,7 @@
 3. **Ensure Raw Data Storage:**
    - Ensure data is stored in a raw format in Azure Data Lake Storage.
 
-### Step 6: Data Transformation with Azure Databricks
+## Step 6: Data Transformation with Azure Databricks
 
 1. **Set up Apache Spark Environment:**
    - Configure the Apache Spark environment in Azure Databricks.
@@ -58,7 +58,7 @@
 3. **Store Transformed Data:**
    - Store the transformed data in Azure Data Lake Storage.
 
-### Step 7: Data Analytics with Azure Synapse Analytics
+## Step 7: Data Analytics with Azure Synapse Analytics
 
 1. **Utilize Azure Synapse Analytics:**
    - Employ Azure Synapse Analytics to run SQL queries and perform data analytics.
@@ -69,11 +69,11 @@
 3. **Answer Business Questions:**
    - Use analytics results to answer relevant business questions.
 
-### Step 8: Dashboard Creation
+## Step 8: Dashboard Creation
 
 - Choose a dashboarding tool (Power BI or Tableau) for building interactive dashboards.
 
-### Step 9: Testing and Validation
+## Step 9: Testing and Validation
 
 1. **Data Pipeline Testing:**
    - Thoroughly test the entire data pipeline for data accuracy and completeness.
@@ -84,7 +84,7 @@
 3. **Issue Resolution:**
    - Address any issues or discrepancies identified during testing.
 
-### Step 10: Documentation and Training
+## Step 10: Documentation and Training
 
 1. **Project Documentation:**
    - Document the entire project, including data source details, Azure service configurations, transformation code, and dashboard design.
@@ -92,7 +92,7 @@
 2. **Stakeholder Training:**
    - Provide training to relevant stakeholders on how to use and maintain the data pipeline and dashboard.
 
-### Step 11: Deployment and Monitoring
+## Step 11: Deployment and Monitoring
 
 1. **Pipeline Deployment:**
    - Deploy the data pipeline into a production environment.
@@ -103,7 +103,7 @@
 3. **Alert Setup:**
    - Set up alerts for any pipeline failures.
 
-### Step 12: Project Completion and Handover
+## Step 12: Project Completion and Handover
 
 1. **Project Review:**
    - Conduct a project review to ensure all objectives are met.
@@ -114,7 +114,7 @@
 3. **Documentation Archive:**
    - Archive project documentation for future reference.
 
-### Step 13: Post-Project Analysis
+## Step 13: Post-Project Analysis
 
 1. **Project Evaluation:**
    - Evaluate the success of the project based on predefined objectives.
