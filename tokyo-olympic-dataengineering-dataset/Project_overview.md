@@ -34,7 +34,7 @@
 
 ## Step 4: Set Up Azure Resources
 
-- Create Azure accounts and necessary resources (Data Factory, Data Lake Storage, Azure Databricks, Synapse Analytics, and Power BI/Tableau) if not already set up.
+- Create Azure accounts and necessary resources (Data Factory, Data Lake Storage, Azure Databricks, Synapse Analytics, and Power BI/Tableau)
 
 ## Step 5: Data Extraction with Azure Data Factory
 
