@@ -1,6 +1,6 @@
 ## Step 1: Project Initiation
 
-**Project Description:** In this project, we will create an end-to-end data engineering pipeline using Azure services to process Olympic data from a source, perform data transformations using Apache Spark, store both raw and transformed data in Azure Data Lake Storage, and finally, analyze the data using Azure Synapse Analytics to build a dashboard.
+**Project Description:** In this project, I will create an end-to-end data engineering pipeline using Azure services to process Olympic data from a source, perform data transformations using Apache Spark, store both raw and transformed data in Azure Data Lake Storage, and finally, analyze the data using Azure Synapse Analytics to build a dashboard.
 
 **Define Project Objectives:**
 - Extract Olympic data from a source (Kaggle).
@@ -17,7 +17,7 @@
 
 1. **Gather Information about the Olympic Data:**
    - Access the public GitHub repository containing the raw Olympic data.
-   - Clone or download the data repository from GitHub to your local environment.
+   - Clone or download the data repository from GitHub to my local environment.
 
 2. **Understand the Data:**
    - Explore the data structure, columns, and format.
@@ -34,7 +34,7 @@
 
 ## Step 4: Set Up Azure Resources
 
-- Create Azure accounts and necessary resources (Data Factory, Data Lake Storage, Azure Databricks, Synapse Analytics, and Power BI/Tableau)
+- Create Azure accounts and necessary resources (Data Factory, Data Lake Storage, Azure Databricks, Synapse Analytics, and Power BI/Tableau).
 
 ## Step 5: Data Extraction with Azure Data Factory
 
@@ -126,3 +126,6 @@
    - Identify potential enhancements or future iterations of the project.
 
 This project will result in a fully functional data engineering pipeline that extracts, transforms, stores, analyzes, and visualizes Olympic data, providing valuable insights for decision-making and reporting.
+
+
+
