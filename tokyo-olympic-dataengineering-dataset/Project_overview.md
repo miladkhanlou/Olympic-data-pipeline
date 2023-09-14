@@ -41,10 +41,7 @@
 1. **Configure Azure Data Factory:**
    - Set up Azure Data Factory to extract data from the Kaggle source.
 
-2. **Define Data Ingestion Schedule:**
-   - Determine the data ingestion schedule (e.g., daily, weekly).
-
-3. **Ensure Raw Data Storage:**
+2. **Ensure Raw Data Storage:**
    - Ensure data is stored in a raw format in Azure Data Lake Storage.
 
 ## Step 6: Data Transformation with Azure Databricks
@@ -66,12 +63,10 @@
 2. **Create SQL Notebooks:**
    - Develop SQL notebooks for custom analytics queries.
 
-3. **Answer Business Questions:**
-   - Use analytics results to answer relevant business questions.
 
 ## Step 8: Dashboard Creation
 
-- Choose a dashboarding tool (Power BI or Tableau) for building interactive dashboards.
+- Choose a dashboarding tool for building interactive dashboards.
 
 ## Step 9: Testing and Validation
 
@@ -81,49 +76,7 @@
 2. **Dashboard Validation:**
    - Verify that the dashboard accurately reflects the data insights.
 
-3. **Issue Resolution:**
-   - Address any issues or discrepancies identified during testing.
 
-## Step 10: Documentation and Training
-
-1. **Project Documentation:**
-   - Document the entire project, including data source details, Azure service configurations, transformation code, and dashboard design.
-
-2. **Stakeholder Training:**
-   - Provide training to relevant stakeholders on how to use and maintain the data pipeline and dashboard.
-
-## Step 11: Deployment and Monitoring
-
-1. **Pipeline Deployment:**
-   - Deploy the data pipeline into a production environment.
-
-2. **Performance Monitoring:**
-   - Implement monitoring and logging to track pipeline performance.
-
-3. **Alert Setup:**
-   - Set up alerts for any pipeline failures.
-
-## Step 12: Project Completion and Handover
-
-1. **Project Review:**
-   - Conduct a project review to ensure all objectives are met.
-
-2. **Handover to Operations:**
-   - Hand over the project to the operations or analytics team for ongoing maintenance.
-
-3. **Documentation Archive:**
-   - Archive project documentation for future reference.
-
-## Step 13: Post-Project Analysis
-
-1. **Project Evaluation:**
-   - Evaluate the success of the project based on predefined objectives.
-
-2. **Feedback Gathering:**
-   - Gather feedback from stakeholders for improvements.
-
-3. **Future Enhancements:**
-   - Identify potential enhancements or future iterations of the project.
 
 This project will result in a fully functional data engineering pipeline that extracts, transforms, stores, analyzes, and visualizes Olympic data, providing valuable insights for decision-making and reporting.
 
