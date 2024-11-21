@@ -1,6 +1,7 @@
 # Olympic Data Analysis & Transformation
 
 This project is an end-to-end data engineering pipeline built using **Azure services** to process Olympic data. The pipeline extracts raw data from a source, transforms it using **Apache Spark** (via Azure Databricks), stores the data in **Azure Data Lake Storage**, and performs analytical queries using **Azure Synapse Analytics**. Finally, the processed data is visualized through a dashboard built in **Power BI**.
+
 ![photo_2024-11-21_14-12-19](https://github.com/user-attachments/assets/2d713dda-3466-4837-b191-9f37f5e2b7c1)
 
 
